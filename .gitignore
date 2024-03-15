@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!README.md
+!examples.cpp
+!exceptions.cpp
+!exceptions.h
+!grid.cpp
+!grid.h
+!noise.cpp
+!noise.h
+
